@@ -51,3 +51,56 @@ Um analista de dados compartilha os insights da análise durante uma apresentaç
 Ação
 Correto
 Nesse cenário, o analista de dados acabou de compartilhar insights. Portanto, a próxima fase seria agir e colocar esses insights para funcionar a fim de resolver o problema de negócios.
+
+
+<h3 align="center">Semana 3 Teste seus conhecimentos sobre a caixa de ferramentas de análise de dados </h3>
+
+
+
+1.Pergunta 1
+Com base no que você aprendeu neste curso, planilhas são fichas de trabalho digitais que permitem que os analistas de dados façam quais das tarefas a seguir? Selecione todas as opções aplicáveis.
+
+1 / 1 ponto
+Classificar e filtrar dados
+Correto
+As planilhas permitem que os analistas de dados armazenem, organizem, classifiquem e filtrem dados. Isso os ajuda a ver padrões, agrupar informações e encontrar facilmente as informações de que precisam.
+
+Organizar dados em colunas e linhas
+Correto
+As planilhas permitem que os analistas de dados armazenem, organizem, classifiquem e filtrem dados. Isso os ajuda a ver padrões, agrupar informações e encontrar facilmente as informações de que precisam.
+
+Armazenar dados
+Correto
+As planilhas permitem que os analistas de dados armazenem, organizem, classifiquem e filtrem dados. Isso os ajuda a ver padrões, agrupar informações e encontrar facilmente as informações de que precisam.
+
+2.Pergunta 2
+Preencha a lacuna: Um conjunto de instruções que realiza um cálculo específico usando dados da planilha é chamado de _____.
+
+1 / 1 ponto
+uma fórmula
+Correto
+Um conjunto de instruções que realiza um cálculo específico usando dados da planilha é chamado de uma fórmula.
+
+3.Pergunta 3
+Um banco de dados é uma coleção de dados armazenada em um sistema de computador.
+
+1 / 1 ponto
+Verdadeiro
+Correto
+Um banco de dados é uma coleção de dados armazenada em um sistema de computador.
+
+4.Pergunta 4
+Em análise de dados, SQL é uma sigla que significa linguagem de consulta _____.
+
+1 / 1 ponto
+Estruturada
+Correto
+SQL significa linguagem de consulta estruturada. Ela permite que os analistas de dados se comuniquem com um banco de dados.
+
+5.Pergunta 5
+Qual é o termo para a representação gráfica dos dados?
+
+1 / 1 ponto
+visualização de dados
+Correto
+A visualização de dados é a representação gráfica dos dados.
