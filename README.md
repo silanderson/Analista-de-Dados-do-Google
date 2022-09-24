@@ -9,6 +9,9 @@ Coursera Analista de Dados
 <img src="https://w7.pngwing.com/pngs/147/569/png-transparent-data-analysis-data-science-systems-analysis-analytics-business-blue-text-people.png" width="500px" />
 
 
+
+
+<h3 align="center">Semana 3 Teste seus conhecimentos sobre o processo de análise de dados</h3>
 1.Pergunta 1
 As fases do processo de análise de dados são: pergunta, preparação, processamento, análise, compartilhamento e ação. O que os analistas de dados fazem durante a fase de pergunta?
 
